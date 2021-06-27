@@ -3,7 +3,7 @@ using namespace std;
 
 void sort(int arr[],int size)
 {
-    
+    cout<<"hahaha"<<endl
 }
 
 int main()
